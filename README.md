@@ -23,9 +23,10 @@ In this project I used YOLOv5 model to train and predict custom objects such as 
 Examples
 </p>
 
-![output1](https://github.com/k-malicki/YOLO-Custom-object-detection/assets/141445691/5dc95197-7231-47ab-b260-5080881162b2)
+![malt_detector](https://github.com/k-malicki/ComputerVision-YOLO-custom-object-detection/assets/141445691/196375ec-23c0-4a60-b447-455f89174bb6)
 
-![output2](https://github.com/k-malicki/YOLO-Custom-object-detection/assets/141445691/07241088-c1fa-4b3d-90d7-d6a23453605f)
+![output2](https://github.com/k-malicki/ComputerVision-YOLO-custom-object-detection/assets/141445691/87e0919c-41dd-4e7c-b284-e3148153302d)
+
 
 
 
