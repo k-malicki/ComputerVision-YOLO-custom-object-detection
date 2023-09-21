@@ -1,0 +1,7 @@
+train: malt/train
+val: malt/test
+nc: 2
+names: [
+    "acceptable",
+    "not_acceptable"
+]
